@@ -17,5 +17,5 @@ Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>  <a href="https://twitter.com/BudhijaUday"><img src="https://clipartcraft.com/images/twitter-logo-png-small-1.png"/></a>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>  <a href="https://twitter.com/BudhijaUday"><img src="https://www.bing.com/ck/a?!&&p=e394e874b9b9fe16JmltdHM9MTY2Mjc2ODAwMCZpZ3VpZD0yZWI5NzhiZi00YTUyLTYyNGQtMTBlMS02YWI0NGJhMDYzNWQmaW5zaWQ9NTUzNw&ptn=3&hsh=3&fclid=2eb978bf-4a52-624d-10e1-6ab44ba0635d&u=a1L2ltYWdlcy9zZWFyY2g_cT1Ud2l0dGVyJTIwTG9nbyZGT1JNPUlRRlJCQSZpZD05NEVDQzQ3ODIyM0I5MTkzOTk0QUM3OTY4N0UxREU2M0VFNzI0NkQ0&ntb=1"/></a>
 
