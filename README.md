@@ -6,5 +6,5 @@
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" height="40px" width="40px" /></a><a href="mailto:udaybudhija26@gmail.com"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" height="40px" width="40px" /></a><a href="https://twitter.com/BudhijaUday"><img src="https://ipsf.net/wp-content/uploads/2018/10/twitter-transparent-app-2.png" height="40px" width="40px" /></a>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png" height="40px" width="40px" /></a><a href="mailto:udaybudhija26@gmail.com"><img src="https://i.pinimg.com/originals/8f/c3/7b/8fc37b74b608a622588fbaa361485f32.png" height="40px" width="40px" /></a><a href="https://twitter.com/BudhijaUday"><img src="https://th.bing.com/th/id/R.6d1572e0795c5ac99014a7e1e5a64113?rik=S2hLEmeYDf0PCA&riu=http%3a%2f%2f2017.igem.org%2fwiki%2fimages%2fthumb%2f8%2f88%2fT--Macquarie_Australia--twitterlogo.png%2f600px-T--Macquarie_Australia--twitterlogo.png&ehk=va7D%2b4HmND1xMEG2m3yEA6qcxPiktBYjUjav9KN0QPw%3d&risl=&pid=ImgRaw&r=0" height="40px" width="40px" /></a>
 
