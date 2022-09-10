@@ -6,5 +6,5 @@
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo-2011-2019.png" height="40px" width="100px" /></a><a href="https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://www.renlearn.co.uk/wp-content/uploads/2020/04/LinkedIn-Logo.png" height="50px" width="50px" /></a><a href="mailto:udaybudhija26@gmail.com"><img src="https://www.logolynx.com/images/logolynx/1f/1f9a438eaaf4f20885ecd763723479e7.png" height="50px" width="50px" /></a><a href="https://twitter.com/BudhijaUday"><img src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png" height="50px" width="50px" /></a>
 
