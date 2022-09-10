@@ -1,8 +1,5 @@
 # Uday Budhija
 
-<a><img src="C:\Users\udayb\Downloads\jjj.png"/></a>
-
-
 ## Description
 
 Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To Contribute More In Open Source, B.Tech In Computer Science(2022-2026)
