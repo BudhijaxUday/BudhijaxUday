@@ -6,5 +6,5 @@
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><p>LinkedIn</p><a href="mailto:udaybudhija26@gmail.com"><p>Mail</p><a href="https://twitter.com/BudhijaUday"><img src="https://th.bing.com/th/id/R.4fd5bc151d032f2e16b92f032ae6fb02?rik=ReJQix%2fYrKgeXw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f08%2fTwitter-logo-bird_logo_2012.png&ehk=%2fm%2fj3zBDsMNBXd4I77UkMaA%2bUg%2b6uE%2fBIUXoHnbw7SU%3d&risl=&pid=ImgRaw&r=0" height="40px" width="40px" /></a>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><p>LinkedIn</p><a href="mailto:udaybudhija26@gmail.com"><p>Mail</p></a><a href="https://twitter.com/BudhijaUday"><img src="https://th.bing.com/th/id/R.4fd5bc151d032f2e16b92f032ae6fb02?rik=ReJQix%2fYrKgeXw&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f08%2fTwitter-logo-bird_logo_2012.png&ehk=%2fm%2fj3zBDsMNBXd4I77UkMaA%2bUg%2b6uE%2fBIUXoHnbw7SU%3d&risl=&pid=ImgRaw&r=0" height="40px" width="40px" /></a>
 
