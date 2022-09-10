@@ -1,15 +1,30 @@
-### Hi there 👋, Hi I am Uday Budhija
-#### B.Tech in Computer Science 2022-2026
-![B.Tech in Computer Science 2022-2026]("C:\Users\udayb\Downloads\jjj.png")
+![License](https://img.shields.io/github/license/BudhijaxUday/BudhijaxUday.svg?style=for-the-badge) ![Repo Size](https://img.shields.io/github/languages/code-size/BudhijaxUday/BudhijaxUday.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/top/BudhijaxUday/BudhijaxUday.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/BudhijaxUday/BudhijaxUday.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/BudhijaxUday/BudhijaxUday.svg?style=for-the-badge)
+    
+# Uday Budhija
 
-Frontend Engineer
+## Table of Contents
 
-Skills: C/C++ / REACT / JS / HTML / CSS
+- [Description](#description)
+- [Screenshots](#screenshots)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
+- [Contacts](#contacts)
 
-- 🔭 I’m currently working on My Portfolio 
-- 📫 How to reach me: udaybudhija26@gmail.com 
+## Description
 
+Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To Contribute More In Open Source, B.Tech In Computer Science(2022-2026)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BudhijaxUday)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Uday Budhija/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@BudhijaUday)  
+## Screenshots
 
+<img src="<img src=""C:\Users\udayb\Downloads\jjj.png"" />" />## Skills
 
+<a href="https://docs.microsoft.com/en-us/cpp/c-runtime-library/c-run-time-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a>
+
+## Contacts
+
+<a href="https://www.linkedin.com/in/Uday Budhija"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
