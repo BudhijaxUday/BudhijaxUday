@@ -6,5 +6,5 @@
 
 ## Contacts
 
-/linkedin<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><p>LinkedIn</p>  <a href="mailto:udaybudhija26@gmail.com"><p>Mail</p>  <a href="https://twitter.com/BudhijaUday"><p> Twitter</p>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><p>LinkedIn</p>  <a href="mailto:udaybudhija26@gmail.com"><p>Mail</p>  <a href="https://twitter.com/BudhijaUday"><p> Twitter</p>
 
