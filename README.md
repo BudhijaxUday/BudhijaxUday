@@ -17,5 +17,5 @@ Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To
 
 ## Contacts
 
-<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>  <a href="https://twitter.com/BudhijaUday"><img src="https://th.bing.com/th/id/R.827ff194eb2ef28f0c9b1b36e8609cb4?rik=AQRYJRJGiQAfgg&riu=http%3a%2f%2flogok.org%2fwp-content%2fuploads%2f2014%2f08%2ftwitter-logo-2010.png&ehk=hOHFh3khzExIt9Z4%2b0yjAvk4gyK55dphR7Hx%2f3AP0DE%3d&risl=&pid=ImgRaw&r=0"/></a>
+<a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>  <a href="https://twitter.com/BudhijaUday"><img src="https://clipartcraft.com/images/twitter-logo-png-small-1.png"/></a>
 
