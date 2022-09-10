@@ -10,4 +10,4 @@
 
 ## Coding Profiles
   
-<a href="https://leetcode.com/REAL_UDAY/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="50px" width="70px" /><a href="https://codeforces.com/profile/BudhijaxUday"><img src="https://rishika-05.github.io/My_Portfolio/images/Codeforces.png" height="50px" width="150px" />
+<a href="https://leetcode.com/REAL_UDAY/"><img src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3628885-3030025.png" height="50px" width="70px" />  <a href="https://codeforces.com/profile/BudhijaxUday"><img src="https://rishika-05.github.io/My_Portfolio/images/Codeforces.png" height="50px" width="150px" />
