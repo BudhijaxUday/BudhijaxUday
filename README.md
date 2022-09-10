@@ -2,7 +2,6 @@
     
 # Uday Budhija
 
-https://www.canva.com/design/DAFL1BYlt2k/K81unmv0LyKepTB9tiNfww/view?utm_content=DAFL1BYlt2k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ## Description
 
