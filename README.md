@@ -9,7 +9,7 @@ Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To
 
 ## Screenshots
 
-<img src="<img src=""C:\Users\udayb\Downloads\jjj.png"" />" />## Tools & Technologies
+## Tools & Technologies
 
 <a href="https://docs.microsoft.com/en-us/cpp/c-runtime-library/c-run-time-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40px" width="40px" /></a><a href="https://docs.microsoft.com/en-us/cpp/standard-library/cpp-standard-library-reference?view=msvc-160"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40px" width="40px" /></a><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="40px" width="40px" /></a>
 
@@ -18,4 +18,4 @@ Hey, This Is Uday Budhija Currently Learning Frontend Development and Looking To
 ## Contacts
 
 <a href="https://www.linkedin.com/in/uday-budhija-6242391b1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:udaybudhija26@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
-<a href="https://twitter.com/BudhijaUday"<https://www.bing.com/images/search?q=Twitter%20Logo&form=IQFRBA&id=528781CDFD57F93072BFCD0472BB78E57ABB2A8D&first=1&disoverlay=1>
+<a href="https://twitter.com/BudhijaUday"><img src="https://www.bing.com/images/search?q=Twitter%20Logo&form=IQFRBA&id=528781CDFD57F93072BFCD0472BB78E57ABB2A8D&first=1&disoverlay=1">
